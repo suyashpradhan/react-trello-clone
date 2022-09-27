@@ -5,4 +5,4 @@
 ## Packages
 
 1. React DnD
-2. Mantine UI
+2. Chakra UI

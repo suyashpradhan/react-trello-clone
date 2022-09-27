@@ -1,6 +1,5 @@
 /** @format */
 
-import { Box } from '@mantine/core';
 import { AppRoutes } from './AppRoutes';
 
 function App() {
@@ -8,12 +7,3 @@ function App() {
 }
 
 export default App;
-
-{
-	/* <Box
-sx={(theme) => ({
-	backgroundColor: theme.colors.dark[6],
-	height: '100vh',
-})}>
-</Box>; */
-}
